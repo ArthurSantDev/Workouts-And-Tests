@@ -5,6 +5,9 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) Como se estrutura um banco de dados orientados a documentos. Tendo como priemiro diferencial criar 'Collections' ao inves de 'Tabelas', permitindo que cada documento tenha sua própria organização tornando um diferente de outro dentro de uma mesma 'Collection', apesar de não ser o ideal é interessante saber que existe essa possibilidade. O MongoDB permite a criação de 'Schemas' que são conjuntos de definições das regras dos campos, seus conteudos e validação dos possíveis valores, o que torna possivel um uso mais rigido caso necessário. Além disso, o MongoDB é suportado pelas linguagens Node.Js, C#, Go, Java, PHP, Python... E o uso do 'Nodemon' para  aumentar drasticamente a produtividade durante o desenvolvimento, reiniciando automaticamente o servidor sempre que alterações nos arquivos da aplicação forem detectadas.
 
+![test1313](https://github.com/ArthurSantDev/Tests/assets/159972613/dac4240d-1957-41ac-bdfc-d329c8d60698)
+![test1313](https://github.com/ArthurSantDev/Tests/assets/159972613/dac4240d-1957-41ac-bdfc-d329c8d60698)
+![test1313](https://github.com/ArthurSantDev/Tests/assets/159972613/dac4240d-1957-41ac-bdfc-d329c8d60698)
 ![test13](https://github.com/ArthurSantDev/Tests/assets/159972613/63b4eff9-ad18-460d-8e00-d43b11aff935)
 ![test13](https://github.com/ArthurSantDev/Tests/assets/159972613/63b4eff9-ad18-460d-8e00-d43b11aff935)
 ![test13](https://github.com/ArthurSantDev/Tests/assets/159972613/63b4eff9-ad18-460d-8e00-d43b11aff935)
