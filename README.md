@@ -5,6 +5,20 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) Como se estrutura um banco de dados orientados a documentos. Tendo como priemiro diferencial criar 'Collections' ao inves de 'Tabelas', permitindo que cada documento tenha sua própria organização tornando um diferente de outro dentro de uma mesma 'Collection', apesar de não ser o ideal é interessante saber que existe essa possibilidade. O MongoDB permite a criação de 'Schemas' que são conjuntos de definições das regras dos campos, seus conteudos e validação dos possíveis valores, o que torna possivel um uso mais rigido caso necessário. Além disso, o MongoDB é suportado pelas linguagens Node.Js, C#, Go, Java, PHP, Python... E o uso do 'Nodemon' para  aumentar drasticamente a produtividade durante o desenvolvimento, reiniciando automaticamente o servidor sempre que alterações nos arquivos da aplicação forem detectadas.
 
+
+![ML1](https://github.com/ArthurSantDev/Mern.In/assets/159972613/34987595-9e7e-4ade-849d-bb264c197e6c)
+![ML2](https://github.com/ArthurSantDev/Mern.In/assets/159972613/e85f5328-e113-4850-a289-c44ea463a253)
+![ML3](https://github.com/ArthurSantDev/Mern.In/assets/159972613/ba837575-8e15-44a5-ad5c-75497adce647)
+![ML4](https://github.com/ArthurSantDev/Mern.In/assets/159972613/218d4a8c-030c-4ff5-a313-e8a4b7deb646)
+![ML5](https://github.com/ArthurSantDev/Mern.In/assets/159972613/59389fd5-8da1-44f9-9ec5-0c21e9ff75d8)
+![ML6](https://github.com/ArthurSantDev/Mern.In/assets/159972613/d0362555-b275-443c-916d-666dfa3962b8)
+![MN1](https://github.com/ArthurSantDev/Mern.In/assets/159972613/3484fdc1-5593-406f-aafc-935c93e3ff06)
+![MN2](https://github.com/ArthurSantDev/Mern.In/assets/159972613/35ace85f-e0e6-428b-b90d-31b4559c3332)
+![MN3](https://github.com/ArthurSantDev/Mern.In/assets/159972613/1c12bb22-12ef-4902-bfb3-4b043296726a)
+![MN4](https://github.com/ArthurSantDev/Mern.In/assets/159972613/910c312f-dda0-41b9-bf9e-cf17af0a1449)
+![MN5](https://github.com/ArthurSantDev/Mern.In/assets/159972613/115979ca-b329-44df-9ca8-5fa70e4e771b)
+![MN6](https://github.com/ArthurSantDev/Mern.In/assets/159972613/6df5cbd2-6f03-413c-99d4-285afdc8789c)
+
 ![test1313](https://github.com/ArthurSantDev/Tests/assets/159972613/dac4240d-1957-41ac-bdfc-d329c8d60698)
 ![test1313](https://github.com/ArthurSantDev/Tests/assets/159972613/dac4240d-1957-41ac-bdfc-d329c8d60698)
 ![test1313](https://github.com/ArthurSantDev/Tests/assets/159972613/dac4240d-1957-41ac-bdfc-d329c8d60698)
