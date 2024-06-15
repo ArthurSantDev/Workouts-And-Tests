@@ -9,17 +9,9 @@
 ![15 IPHONE GRAY TEST](https://github.com/ArthurSantDev/Tests/assets/159972613/c646650e-9a9b-467a-991b-b5f10b36b9fa)
 ![15 TEST](https://github.com/ArthurSantDev/Tests/assets/159972613/aef9d470-331c-4d64-956f-0d0aa6537d02)
 
-![15LIGHT](https://github.com/ArthurSantDev/Tests/assets/159972613/957e4b9f-68bf-4236-9301-126b125c7442)
-![15DARKY](https://github.com/ArthurSantDev/Tests/assets/159972613/fab7abbf-0ad5-4461-be28-5595ccd2abc4)
-![15](https://github.com/ArthurSantDev/Tests/assets/159972613/fe25cf64-8f95-4587-815a-4963216a6421)
-
 ![test1313](https://github.com/ArthurSantDev/Tests/assets/159972613/dac4240d-1957-41ac-bdfc-d329c8d60698)
 ![test1313](https://github.com/ArthurSantDev/Tests/assets/159972613/dac4240d-1957-41ac-bdfc-d329c8d60698)
 ![test1313](https://github.com/ArthurSantDev/Tests/assets/159972613/dac4240d-1957-41ac-bdfc-d329c8d60698)
-
-![test13](https://github.com/ArthurSantDev/Tests/assets/159972613/63b4eff9-ad18-460d-8e00-d43b11aff935)
-![test13](https://github.com/ArthurSantDev/Tests/assets/159972613/63b4eff9-ad18-460d-8e00-d43b11aff935)
-![test13](https://github.com/ArthurSantDev/Tests/assets/159972613/63b4eff9-ad18-460d-8e00-d43b11aff935)
 
 ![test15](https://github.com/ArthurSantDev/HighTrip/assets/159972613/01f95fc1-19dc-47db-b339-08dda260d21a)
 ![test15](https://github.com/ArthurSantDev/HighTrip/assets/159972613/01f95fc1-19dc-47db-b339-08dda260d21a)
