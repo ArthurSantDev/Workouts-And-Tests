@@ -5,32 +5,9 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) Como se estrutura um banco de dados orientados a documentos. Tendo como priemiro diferencial criar 'Collections' ao inves de 'Tabelas', permitindo que cada documento tenha sua própria organização tornando um diferente de outro dentro de uma mesma 'Collection', apesar de não ser o ideal é interessante saber que existe essa possibilidade. O MongoDB permite a criação de 'Schemas' que são conjuntos de definições das regras dos campos, seus conteudos e validação dos possíveis valores, o que torna possivel um uso mais rigido caso necessário. Além disso, o MongoDB é suportado pelas linguagens Node.Js, C#, Go, Java, PHP, Python... E o uso do 'Nodemon' para  aumentar drasticamente a produtividade durante o desenvolvimento, reiniciando automaticamente o servidor sempre que alterações nos arquivos da aplicação forem detectadas.
 
-## Screenshots
-### Light Mode
-![L1](https://github.com/ArthurSantDev/Nike/assets/159972613/2edb0ef1-d840-4856-95f5-fae81d4e3696)
-
-![L2](https://github.com/ArthurSantDev/Nike/assets/159972613/cc34925a-b67c-4b8b-9a7d-5f37034b0fe3)
-
-![L3](https://github.com/ArthurSantDev/Nike/assets/159972613/ff9152c7-09fc-4216-8096-917fa8a8dc6a)
-
-![L4](https://github.com/ArthurSantDev/Nike/assets/159972613/75085e58-42b6-4bae-af1a-a9262c95b2fd)
-
-![ML1](https://github.com/ArthurSantDev/Nike/assets/159972613/02c447bf-89db-4366-a710-d60527d4471b)
-![ML2](https://github.com/ArthurSantDev/Nike/assets/159972613/dc5b3c1e-bbdd-45bb-bcfa-d70d55ea88a2)
-![ML3](https://github.com/ArthurSantDev/Nike/assets/159972613/b9378951-89f2-438a-8006-e4c505fbabd1)
-
-### Dark Mode
-![N1](https://github.com/ArthurSantDev/Nike/assets/159972613/1e1a708b-7a9e-47ce-a2f6-0a4169f7e328)
-
-![N2](https://github.com/ArthurSantDev/Nike/assets/159972613/c1316804-c0b7-463f-a96f-d80fb05a6434)
-
-![N3](https://github.com/ArthurSantDev/Nike/assets/159972613/0bb63239-8449-4838-b87f-2b200e41c24b)
-
-![N4](https://github.com/ArthurSantDev/Nike/assets/159972613/6a3c3459-d384-4980-b89b-52fc05fe7567)
-
-![MN1](https://github.com/ArthurSantDev/Nike/assets/159972613/2da848dd-074d-44f2-8e47-827219d7ea8b)
-![MN2](https://github.com/ArthurSantDev/Nike/assets/159972613/afc859b3-e970-4663-bbbd-60cac9c522fb)
-![MN3](https://github.com/ArthurSantDev/Nike/assets/159972613/f57563cf-f4e5-421e-874b-40a656a827cb)
+![15LIGHT](https://github.com/ArthurSantDev/Tests/assets/159972613/957e4b9f-68bf-4236-9301-126b125c7442)
+![15DARKY](https://github.com/ArthurSantDev/Tests/assets/159972613/fab7abbf-0ad5-4461-be28-5595ccd2abc4)
+![15](https://github.com/ArthurSantDev/Tests/assets/159972613/fe25cf64-8f95-4587-815a-4963216a6421)
 
 ![test1313](https://github.com/ArthurSantDev/Tests/assets/159972613/dac4240d-1957-41ac-bdfc-d329c8d60698)
 ![test1313](https://github.com/ArthurSantDev/Tests/assets/159972613/dac4240d-1957-41ac-bdfc-d329c8d60698)
