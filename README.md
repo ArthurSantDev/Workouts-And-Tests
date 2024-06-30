@@ -1,3 +1,11 @@
+![test DARK](https://github.com/ArthurSantDev/Workouts-And-Tests/assets/159972613/36be21b8-45eb-45ed-951c-4e9de856cb47)
+![test DARK](https://github.com/ArthurSantDev/Workouts-And-Tests/assets/159972613/36be21b8-45eb-45ed-951c-4e9de856cb47)
+![test DARK](https://github.com/ArthurSantDev/Workouts-And-Tests/assets/159972613/36be21b8-45eb-45ed-951c-4e9de856cb47)
+
+![test LIGHT](https://github.com/ArthurSantDev/Workouts-And-Tests/assets/159972613/babbedbb-40fe-4356-ba10-4695494cdc84)
+![test LIGHT](https://github.com/ArthurSantDev/Workouts-And-Tests/assets/159972613/babbedbb-40fe-4356-ba10-4695494cdc84)
+![test LIGHT](https://github.com/ArthurSantDev/Workouts-And-Tests/assets/159972613/babbedbb-40fe-4356-ba10-4695494cdc84)
+
 ## Learnings
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) Como gerenciar os estados de uma aplicação escalavel, utilizando de suas funcionalidades. Store, armazenando o estado da aplicação de maneira centralizada para que todos os componentes tenham acesso; Actions, para representar eventos ou intenções tornando possível enviar dados para o 'Store'; Reducers, que recebem o estado das 'Actions' como argumento para retornar um novo estado sem modifiocar o anterior. Neste projeto pude aprender como se utilizam os estados e se estrutura um projeto que tem como base a biblioteca Redux.
 
